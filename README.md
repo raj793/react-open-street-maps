@@ -1,4 +1,4 @@
-# React Open Street Maps
+# React Open Street Maps https://osm-shriraj.netlify.app/
 
 A simple map explorer based on OpenStreetMaps with Dark Mode and Light Mode themes.
 
