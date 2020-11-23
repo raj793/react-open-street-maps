@@ -1,3 +1,19 @@
+# React Open Street Maps
+
+A simple map explorer based on OpenStreetMaps with Dark Mode and Light Mode themes.
+
+- You can select a location from the dropdown and click on the 'Load' button.
+- It will load the map with the selected location.
+- It will also display a Card with all the basic details about that location.
+
+# Tests
+
+Apis can be tested by using Jest with supported libraries by asserting rendered outputs with snapshots.
+
+# Yarn Installation
+
+https://classic.yarnpkg.com/en/docs/install/#mac-stable
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
